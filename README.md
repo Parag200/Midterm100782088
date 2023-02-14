@@ -9,7 +9,11 @@ This was done by adding the properties, input, float and the rim dot product wit
 
 Ship rimlighting and hologram
 -------------------------------
-Having the rim light and hologram on the ship allow it to have better highlights reflecing in game.
+Having the rim light and hologram on the ship allow it to have better highlights reflecing in game. the rim lighting uses the direction 
+ligthing and focuses it on the main body of the obj but we use saturate and half rim to make sure the range is 0 to 1 allowing the 
+color black to on the outside not inside. Thus changing the rim color was done to a gray and with the holo gram its the same concept with
+rim lighting but instead we use transparent:fade allowing the us to change the alpha. This makes it so the black is now see through, 
+allowing for better highlights on the ship with adjusted colors 
 
 
 
@@ -18,6 +22,7 @@ ShipMove
 With the object having a rigidbody, I used the horizontal and vertical input instead of manually typing the code for the WASD. This 
 was done because it was more time efficient and looked neater in code. The horizontal and vertical input were multiplied with the 
 float speed relative to the objects XYZ coordinates. 
+
 
 LUT change, color screen
 -------------------------
@@ -28,6 +33,9 @@ for the x and y for when the LUT is imported it will be using that for precison.
 
 Resources 
 3D Monkey - Blender
+-
 3D spaceship - https://www.cgtrader.com/free-3d-models/aircraft/jet/aircraft-stylized-lowpoly
+-
 water -https://3dtextures.me/2018/11/29/water-002/
+-
 ground - https://3dtextures.me/2022/05/21/stylized-stone-floor-005/
