@@ -7,10 +7,9 @@ the water to be very noticeable with it bright blue waves. maxing out the bump a
 This was done by adding the properties, input, float and the rim dot product with saturate to make sure it shows on the edges. 
 
 
-ShipTexture with Blinn
-------------------------
-Using the blinn shader, I added in the main texutre allowing the ship to have blinn ligting making it look realistic while also 
-making sure the ship have color details.
+Ship rimlighting and hologram
+-------------------------------
+Having the rim light and hologram on the ship allow it to have better highlights reflecing in game.
 
 
 
@@ -24,7 +23,8 @@ LUT change, color screen
 -------------------------
 A script was added to the camera allowing the LUT material to be drawn and displayed on the screen using the Grahpics.Blit,
 making the materials an array. This allows me to add as much materials for our lut, the next step was to add the key input that toggled
-off and on the lut changing. 
+off and on the lut changing. The LUT shader was using the excat texel for red blue and green and from there, we calculated the offset
+for the x and y for when the LUT is imported it will be using that for precison. 
 
 Resources 
 3D Monkey - Blender

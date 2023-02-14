@@ -1851,3 +1851,128 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 476.774166 seconds.
+  path: Assets/Materials/RimLightMat.mat
+  artifactKey: Guid(7231203f9b591fb4395bdc7e666e5809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/RimLightMat.mat using Guid(7231203f9b591fb4395bdc7e666e5809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a61e86c601c7c5eca475169d433b59b2') in 0.122020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.423151 seconds.
+  path: Assets/Shaders/RimLIghting.shader
+  artifactKey: Guid(04aa5f83757a09d46991a06fe769da2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/RimLIghting.shader using Guid(04aa5f83757a09d46991a06fe769da2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd6845a563b860784bf1ce78545255ed') in 0.014561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.166727 seconds.
+  path: Assets/Shaders/RimLIghting.shader
+  artifactKey: Guid(04aa5f83757a09d46991a06fe769da2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/RimLIghting.shader using Guid(04aa5f83757a09d46991a06fe769da2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6f860a1394e8a32a56caf3aa0de8338') in 0.002409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.754707 seconds.
+  path: Assets/Shaders/RimLIghting.shader
+  artifactKey: Guid(04aa5f83757a09d46991a06fe769da2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/RimLIghting.shader using Guid(04aa5f83757a09d46991a06fe769da2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbf9f84b9b355b612463ad461a6e347a') in 0.003331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.396138 seconds.
+  path: Assets/Shaders/RimLIghting.shader
+  artifactKey: Guid(04aa5f83757a09d46991a06fe769da2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/RimLIghting.shader using Guid(04aa5f83757a09d46991a06fe769da2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa9cb6163bd33ada63cbdb25718134b') in 0.002819 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.945211 seconds.
+  path: Assets/Shaders/RimLIghting.shader
+  artifactKey: Guid(04aa5f83757a09d46991a06fe769da2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/RimLIghting.shader using Guid(04aa5f83757a09d46991a06fe769da2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cbe07f289933766bb4f343ec05b5258') in 0.002438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.459460 seconds.
+  path: Assets/Materials/RimLightMat.mat
+  artifactKey: Guid(7231203f9b591fb4395bdc7e666e5809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/RimLightMat.mat using Guid(7231203f9b591fb4395bdc7e666e5809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d3fd207c00abfe9f091adf4a85fe26') in 0.012723 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 129.245722 seconds.
+  path: Assets/Materials/HoloMat.mat
+  artifactKey: Guid(368b1ef223ffe6342bf742243eeef375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/HoloMat.mat using Guid(368b1ef223ffe6342bf742243eeef375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fda645b24e66c3e5dac55842cda5245') in 0.014745 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003045 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\ZProjects\Midterm100782088\Midterm\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\ZProjects\Midterm100782088\Midterm\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.789 seconds
+Domain Reload Profiling:
+	ReloadAssembly (790ms)
+		BeginReloadAssembly (111ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (599ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (203ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (260ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (51ms)
+				ProcessInitializeOnLoadAttributes (174ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3045 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (83.1 KB). Loaded Objects now: 3647.
+Memory consumption went from 116.0 MB to 116.0 MB.
+Total: 2.664100 ms (FindLiveObjects: 0.236200 ms CreateObjectMapping: 0.075900 ms MarkObjects: 2.218600 ms  DeleteObjects: 0.132000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (80.3 KB). Loaded Objects now: 3647.
+Memory consumption went from 55.4 MB to 55.3 MB.
+Total: 2.970200 ms (FindLiveObjects: 0.264000 ms CreateObjectMapping: 0.081300 ms MarkObjects: 2.485600 ms  DeleteObjects: 0.137900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
