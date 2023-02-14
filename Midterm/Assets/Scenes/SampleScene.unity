@@ -270,7 +270,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f5b950403fa317446bfab048e2cdec28, type: 2}
+  - {fileID: 2100000, guid: 1bba50a64745a4943ae141b3620eee65, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -366,6 +366,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 7f07e6c54a7ac354e98dd410bc4b8ec4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 95d89bb3de370d24f9dd8f77264c60ee, type: 2}
     - target: {fileID: 919132149155446097, guid: 7f07e6c54a7ac354e98dd410bc4b8ec4, type: 3}
       propertyPath: m_Name
       value: AirShip
@@ -405,7 +409,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 776656e2582aa71428391451043730df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 100
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0

@@ -4,6 +4,7 @@ Shader "Midterm/Phong"
   _Color("Color", Color) = (1.0,1.0,1.0)
   _SpecColor("Color", Color) = (1.0,1.0,1.0)
   _Shininess("Shininess", Float) = 10
+		
 	}
 		SubShader{
 		Pass
@@ -17,6 +18,7 @@ Shader "Midterm/Phong"
 		uniform float4 _SpecColor;
 		uniform float _Shininess;
 		// unity defined variables
+		
 		uniform float4 _LightColor0;
 		// structs
 		struct vertexInput {
@@ -55,6 +57,7 @@ Shader "Midterm/Phong"
 			float3 lightFinal = diffuseReflection + specularReflection + UNITY_LIGHTMODEL_AMBIENT;
 			//adding final light with diffuse spec and ambient 
 			return float4(lightFinal * _Color.rgb, 1.0);//set how bright it is, final light x color 
+			
 		}
 			ENDCG
 	}

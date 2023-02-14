@@ -5,7 +5,7 @@ using UnityEngine;
 public class ShipMove : MonoBehaviour
 {
 
-    public float speed = 50.0f;
+    [SerializeField] float speed = 100.0f;
 
     Rigidbody rb;
 

@@ -1,5 +1,12 @@
 Midterm 100782088
 
+
+ShipTexture with SpecPBR
+------------------------
+
+
+
+
 ShipMove
 ------------------------
 With the object having a rigidbody, I used the horizontal and vertical input instead of manually typing the code for the WASD. This 

@@ -3,6 +3,7 @@ Shader "Midterm/BasicBlinn"
     Properties
     {
         _Color("Color", Color) = (1,1,1,1)
+        _MainTex("MainTex", 2D) = "white" {}
 
     }
         SubShader
@@ -13,6 +14,7 @@ Shader "Midterm/BasicBlinn"
         CGPROGRAM
 
         #pragma surface surf BasicBlinn
+        sampler2D _MainTex;//texture input 
 
         half4 LightingBasicBlinn(SurfaceOutput s, half3 lightDir, half3 viewDir ,half atten)
         {
@@ -41,7 +43,7 @@ Shader "Midterm/BasicBlinn"
         void surf(Input IN, inout SurfaceOutput o)
         {
 
-            o.Albedo = _Color.rgb;
+            o.Albedo = tex2D(_MainTex, IN.uv_MainTex).rgb;//setting albedo to texutre 
 
         }
         ENDCG
