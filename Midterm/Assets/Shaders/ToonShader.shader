@@ -42,7 +42,7 @@ Shader "Midterm/BasicToonShader"
         {
 
            
-            o.Albedo = tex2D(_MainTex, IN.uv_MainTex).rgb;//setting albedo to texutre 
+           
 
         }
         ENDCG
