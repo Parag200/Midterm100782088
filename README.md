@@ -2,10 +2,15 @@ Midterm 100782088
 
 Pond Rim Light with texture 
 ----------------------------
+A new material was made that held both the rim light with bump mapping. The reason why this was done is because it allows
+the water to be very noticeable with it bright blue waves. maxing out the bump and rim power makes it more eye catching. 
+This was done by adding the properties, input, float and the rim dot product with saturate to make sure it shows on the edges. 
+
 
 ShipTexture with Blinn
 ------------------------
-
+Using the blinn shader, I added in the main texutre allowing the ship to have blinn ligting making it look realistic while also 
+making sure the ship have color details.
 
 
 
@@ -17,6 +22,9 @@ float speed relative to the objects XYZ coordinates.
 
 LUT change, color screen
 -------------------------
+A script was added to the camera allowing the LUT material to be drawn and displayed on the screen using the Grahpics.Blit,
+making the materials an array. This allows me to add as much materials for our lut, the next step was to add the key input that toggled
+off and on the lut changing. 
 
 Resources 
 3D Monkey - Blender
