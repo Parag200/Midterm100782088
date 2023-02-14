@@ -1,4 +1,4 @@
-# Midterm100782088
+Midterm 100782088
 
 3D Monkey - Blender
-3D HumanModel - https://free3d.com/3d-model/base-character-ready-to-animate-453899.html
+3D spaceship - https://www.cgtrader.com/free-3d-models/aircraft/jet/aircraft-stylized-lowpoly
